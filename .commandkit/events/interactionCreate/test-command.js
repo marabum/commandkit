@@ -1,0 +1,15 @@
+import {
+  __name
+} from "../../chunk-H736K5TN.js";
+
+// src/events/interactionCreate/test-command.ts
+function test_command_default(interaction) {
+  console.log(interaction.user);
+  console.log(interaction.id);
+  console.log(interaction);
+}
+__name(test_command_default, "default");
+export {
+  test_command_default as default
+};
+//# sourceMappingURL=data:application/json;base64,ewogICJ2ZXJzaW9uIjogMywKICAic291cmNlcyI6IFsiLi4vLi4vLi4vc3JjL2V2ZW50cy9pbnRlcmFjdGlvbkNyZWF0ZS90ZXN0LWNvbW1hbmQudHMiXSwKICAic291cmNlc0NvbnRlbnQiOiBbImltcG9ydCB7Q2hhdElucHV0Q29tbWFuZEludGVyYWN0aW9ufSBmcm9tIFwiZGlzY29yZC5qc1wiO1xyXG5cclxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gKGludGVyYWN0aW9uOiBDaGF0SW5wdXRDb21tYW5kSW50ZXJhY3Rpb24pIHtcclxuICAgIGNvbnNvbGUubG9nKGludGVyYWN0aW9uLnVzZXIpIC8vIGxvZ3MgaW50ZXJhY3Rpb24gdXNlclxyXG4gICAgY29uc29sZS5sb2coaW50ZXJhY3Rpb24uaWQpIC8vIGxvZ3MgaW50ZXJhY3Rpb24gaWRcclxuXHJcbiAgICBjb25zb2xlLmxvZyhpbnRlcmFjdGlvbik7IC8vIGNyYXNoZXM/XHJcbn1cclxuIl0sCiAgIm1hcHBpbmdzIjogIjs7Ozs7QUFFZSxTQUFSLHFCQUFrQixhQUEwQztBQUMvRCxVQUFRLElBQUksWUFBWSxJQUFJO0FBQzVCLFVBQVEsSUFBSSxZQUFZLEVBQUU7QUFFMUIsVUFBUSxJQUFJLFdBQVc7QUFDM0I7QUFMTzsiLAogICJuYW1lcyI6IFtdCn0K
